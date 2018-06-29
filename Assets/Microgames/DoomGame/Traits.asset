@@ -12,16 +12,13 @@ MonoBehaviour:
   m_Name: Traits
   m_EditorClassIdentifier: 
   _controlScheme: 1
-  _hideCursor: 0
-  _cursorLockState: 0
+  _hideCursor: 1
+  _cursorLockState: 1
   _duration: 1
-  _command: Solve!
+  _command: 
   _defaultVictory: 0
   _victoryVoiceDelay: 0
   _failureVoiceDelay: 0
-  _musicClip: {fileID: 8300000, guid: b712052592e56934380fc2179f4b5ba6, type: 3}
-  _milestone: 1
-  _credits:
-  - 
-  - 
-  - 
+  _musicClip: {fileID: 8300000, guid: 7aa22b25dfcfa6046985db82764283ec, type: 3}
+  _milestone: 0
+  _credits: []
